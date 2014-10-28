@@ -13,10 +13,10 @@ public class tweet {
     {
         ConfigurationBuilder cb = new ConfigurationBuilder();
         cb.setDebugEnabled(true)
-        .setOAuthConsumerKey("cD0uPF9gu1asdGdKYynYNdm2p")
-        .setOAuthConsumerSecret("W3vp78Hkx9QyK5rdyuLrRz47zSHMLBLkegjHE3TY5VsB7Q4qV2")
-         .setOAuthAccessToken("827487456-n5XBBQF43J1vOXDuRMweTezdso3hLbNeOCAsltzp")
-         .setOAuthAccessTokenSecret("yc8tMaRwfMmWhiZ17j5cONQ7eQOga2eiNCm0AskuCtlmM");
+        .setOAuthConsumerKey("xxxx")
+        .setOAuthConsumerSecret("xxxx")
+         .setOAuthAccessToken("xxxx")
+         .setOAuthAccessTokenSecret("xxxx");
          //.setUseSSL(true);
         PrintWriter tweetWriter = null;
          
