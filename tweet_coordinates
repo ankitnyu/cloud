@@ -15,10 +15,10 @@ public class newtweet {
 	public static void main(String[] args) throws Exception 
     {
 	 ConfigurationBuilder cb = new ConfigurationBuilder();
-	  cb.setOAuthConsumerKey("cD0uPF9gu1asdGdKYynYNdm2p");
-	  cb.setOAuthConsumerSecret("W3vp78Hkx9QyK5rdyuLrRz47zSHMLBLkegjHE3TY5VsB7Q4qV2");
-	  cb.setOAuthAccessToken("827487456-n5XBBQF43J1vOXDuRMweTezdso3hLbNeOCAsltzp");
-	  cb.setOAuthAccessTokenSecret("yc8tMaRwfMmWhiZ17j5cONQ7eQOga2eiNCm0AskuCtlmM");
+	  cb.setOAuthConsumerKey("xxxx");
+	  cb.setOAuthConsumerSecret("xxxx");
+	  cb.setOAuthAccessToken("xxxx");
+	  cb.setOAuthAccessTokenSecret("xxxx");
 
 	  PrintWriter tweetWriter = null;
 	  
